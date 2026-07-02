@@ -17,3 +17,6 @@ Prosty system klasy SIEM (Security Information and Event Management) napisany w 
 
 [i] Statystyki błędnych logowań per IP:
 --> IP: 203.0.113.5 | Próby: 4
+
+[🚨] GENEROWANIE REGUŁ FIREWALL (DO ZABLOKOWANIA):
+[-] REKOMENDACJA: Zablokuj ruch z IP: 203.0.113.5 -> Powód: Atak Brute-Force
